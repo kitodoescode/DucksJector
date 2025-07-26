@@ -1,0 +1,351 @@
+﻿  Injection.cpp
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\NTDLL\ntdlldefs.h(19,103): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Injection/Injection.cpp')
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\NTDLL\ntdlldefs.h(19,103):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\Injection\Injection.cpp(119,52): warning C4244: '=': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\Injection\Injection.cpp(120,67): warning C4244: '=': conversion from 'uint64_t' to 'uint8_t', possible loss of data
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\Injection\Injection.cpp(164,98): warning C4244: 'argument': conversion from 'uintptr_t' to 'DWORD', possible loss of data
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\Injection\Injection.cpp(167,50): warning C4229: anachronism used: modifiers on data are ignored
+  main.cpp
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\NTDLL\ntdlldefs.h(19,103): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'main.cpp')
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\NTDLL\ntdlldefs.h(19,103):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(15,42): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(15,42): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(15,54): error C2039: 'current_path': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(15,54): error C3861: 'current_path': identifier not found
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(125,15): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(125,15): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(125,27): error C2039: 'file_size': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(125,27): error C3861: 'file_size': identifier not found
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(139,8): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(139,8): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(139,20): error C2039: 'path': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(139,25): error C2146: syntax error: missing ';' before identifier 'importPath'
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(139,25): error C2065: 'importPath': undeclared identifier
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(140,13): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(140,13): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(140,25): error C2039: 'exists': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(140,32): error C2065: 'importPath': undeclared identifier
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(140,25): error C3861: 'exists': identifier not found
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(141,4): error C2065: 'importPath': undeclared identifier
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(141,22): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(141,22): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(141,34): error C2039: 'path': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(141,34): error C2064: term does not evaluate to a function taking 1 arguments
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(144,12): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(144,12): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(144,24): error C2039: 'exists': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(144,31): error C2065: 'importPath': undeclared identifier
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(144,24): error C3861: 'exists': identifier not found
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(145,23): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(145,23): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(145,35): error C2039: 'file_size': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(145,45): error C2065: 'importPath': undeclared identifier
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(145,35): error C3861: 'file_size': identifier not found
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(148,31): error C2065: 'importPath': undeclared identifier
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(154,14): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(154,14): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(154,26): error C2039: 'file_size': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(154,26): error C3861: 'file_size': identifier not found
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(162,46): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(162,46): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(162,58): error C2039: 'file_size': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(162,58): error C3861: 'file_size': identifier not found
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(202,8): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(202,8): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(202,20): error C2039: 'path': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(202,25): error C2146: syntax error: missing ';' before identifier 'importPath'
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(202,25): error C2065: 'importPath': undeclared identifier
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(203,13): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(203,13): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(203,25): error C2039: 'exists': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(203,32): error C2065: 'importPath': undeclared identifier
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(203,25): error C3861: 'exists': identifier not found
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(204,4): error C2065: 'importPath': undeclared identifier
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(204,22): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(204,22): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(204,34): error C2039: 'path': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(204,34): error C2064: term does not evaluate to a function taking 1 arguments
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(207,12): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(207,12): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(207,24): error C2039: 'exists': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(207,31): error C2065: 'importPath': undeclared identifier
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(207,24): error C3861: 'exists': identifier not found
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(208,23): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(208,23): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(208,35): error C2039: 'file_size': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(208,45): error C2065: 'importPath': undeclared identifier
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(208,35): error C3861: 'file_size': identifier not found
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(210,33): error C2065: 'importPath': undeclared identifier
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(211,34): error C3536: 'subImports': cannot be used before it is initialized
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(211,12): error C2661: 'std::vector<std::pair<std::string,uintptr_t>,std::allocator<std::pair<std::string,uintptr_t>>>::insert': no overloaded function takes 1 arguments
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\vector(1265,27):
+      could be 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> std::vector<_Ty,std::allocator<_Ty>>::insert(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,_Iter,_Iter)'
+          with
+          [
+              _Ty=std::pair<std::string,uintptr_t>
+          ]
+          E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(211,12):
+          'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> std::vector<_Ty,std::allocator<_Ty>>::insert(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,_Iter,_Iter)': expects 3 arguments - 1 provided
+          with
+          [
+              _Ty=std::pair<std::string,uintptr_t>
+          ]
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(211,12):
+      while trying to match the argument list '(std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>)'
+          with
+          [
+              _Ty=std::pair<std::string,uintptr_t>
+          ]
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(214,43): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(214,4): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(214,4):
+      while trying to match the argument list '(LogType)'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(280,43): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(280,4): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(280,4):
+      while trying to match the argument list '(LogType)'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(409,43): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(409,4): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(409,4):
+      while trying to match the argument list '(LogType)'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(415,40): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(415,2): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(415,2):
+      while trying to match the argument list '(LogType)'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(421,27): error C2039: 'filesystem': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(421,27): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(421,39): error C2039: 'file_size': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\map(24,1):
+      see declaration of 'std'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(421,39): error C3861: 'file_size': identifier not found
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(426,42): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(426,3): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(426,3):
+      while trying to match the argument list '(LogType)'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(430,40): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(430,2): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(430,2):
+      while trying to match the argument list '(LogType)'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(438,43): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(438,4): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(438,4):
+      while trying to match the argument list '(LogType)'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(459,42): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(459,3): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(459,3):
+      while trying to match the argument list '(LogType)'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(498,43): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(498,4): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(498,4):
+      while trying to match the argument list '(LogType)'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(558,43): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(558,4): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(558,4):
+      while trying to match the argument list '(LogType)'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(586,42): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(586,3): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(586,3):
+      while trying to match the argument list '(LogType)'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(592,42): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(592,3): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(592,3):
+      while trying to match the argument list '(LogType)'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(618,40): error C2027: use of undefined type 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\iosfwd(189,7):
+      see declaration of 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(618,2): error C2660: 'Log': function does not take 1 arguments
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(47,6):
+      see declaration of 'Log'
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\main.cpp(618,2):
+      while trying to match the argument list '(LogType)'
+  
+  ntdlldefs.cpp
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\NTDLL\ntdlldefs.h(19,103): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'NTDLL/ntdlldefs.cpp')
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\NTDLL\ntdlldefs.h(19,103):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+  Tools.cpp
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\NTDLL\ntdlldefs.h(19,103): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'Tools/Tools.cpp')
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\NTDLL\ntdlldefs.h(19,103):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\Tools\Tools.cpp(66,26): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  TPInjection.cpp
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\NTDLL\ntdlldefs.h(19,103): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  (compiling source file 'TPInjection/TPInjection.cpp')
+      E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\NTDLL\ntdlldefs.h(19,103):
+      This member will be ignored by a defaulted constructor or copy/move assignment operator
+  
+E:\Temp Desktop Icons\Roblox Executors\Roblox-Executor-Sources-main\Extra Srcs\DucksInjector\TPInjection\TPInjection.cpp(16,38): warning C4312: 'type cast': conversion from 'DWORD' to 'HANDLE' of greater size
+  Generating Code...
