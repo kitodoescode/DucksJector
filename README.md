@@ -3,7 +3,7 @@
 ## About
 
 [![Discord](https://img.shields.io/badge/Discord-Invite-gray?logo=discord&labelColor=%235865F2&logoColor=white)](https://discord.gg/skidleaks)  
-This is a dll injector made by @.theonlyducks  
+This is a dll injector made by @.theonlyducks (fixed version of mmap injector by @goodbytecode)
 
 ---
 
@@ -16,7 +16,8 @@ This is a dll injector made by @.theonlyducks
 
 ## Credits
 
-- `@.theonlyducks` → Injector
+- `@.theonlyducks` - Fix
+- `@goodbytecode` - Original Source
 
 ---
 
