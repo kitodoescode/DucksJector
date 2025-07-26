@@ -16,7 +16,6 @@ This is a dll injector made by @.theonlyducks
 
 ## Credits
 
-**Discord Users**  
 - `@.theonlyducks` → Injector
 
 ---
